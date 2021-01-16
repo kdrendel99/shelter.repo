@@ -1,0 +1,38 @@
+title {
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: "300px";
+}
+.text {
+text-align: center;
+font-family: comic sans-serif;
+}
+body {
+  background-color: plum;
+}
+.only {
+  color: yellow;
+  font-size: "130ps"
+}
+
+.my-class {
+  margin: 12px;
+  border: 2px darkolivegreen;
+  padding: 4px;
+  background-color: rgb(21, 214, 188)
+}
+
+.box1 {
+  width:50%;
+  border: black;
+  border-width: 1px;
+  background-color: steelblue;
+  margin-bottom: 10px;
+}
+.ricardo {
+  margin: 12px;
+  border: 2px darkolivegreen;
+  border-radius: 50%;
+  padding: 4px;
+  background-color: rgb(21, 214, 188)
+}
